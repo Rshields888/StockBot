@@ -33,4 +33,4 @@ client.on('message', message => {
 
 
 
-client.login('NzU4NTUzODU1OTgxMzg3ODA2.X2woVA.nuY3qwkuJ2RpWcD3f-pk4E4-vE0');
+client.login('<your discord token here>');
