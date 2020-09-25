@@ -1,2 +1,5 @@
 # StockBot
-A Discord bot that uses a stock market which grabs data from Google Finance and sends it to the user. 
+A Discord bot that uses a stock market API to retrieve data from Google Finance.
+Stockbot displays information about a given stock including current stock price, daily highs and lows, yearly highs and lows, PE ratios, and market caps.
+Source to API: https://www.npmjs.com/package/boxhock_google-finance-data
+
